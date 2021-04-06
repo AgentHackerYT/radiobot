@@ -18,7 +18,7 @@ Ans: Yes
 - How to change Prefix?						  
 Ans: cr!setconf prefix (value)
 
--Can i change the bitrate?
+- Can i change the bitrate?
 Ans: Yes 
 				  
 - How to change bitrate?                      		
